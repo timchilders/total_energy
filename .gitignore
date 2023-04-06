@@ -1,0 +1,7 @@
+# env
+/prefect/.env
+
+eia_api.ipynb
+__pycache__
+/data/
+/prefect/__pycache__/
