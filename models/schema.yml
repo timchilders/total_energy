@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: ethereal-link-375303
+    schema: eia_totalenergy
+
+    tables:
+      - name: totalenergy_monthly
